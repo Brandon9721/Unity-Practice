@@ -1,0 +1,17 @@
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/UnityEngine.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/UnityEditor.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Brandon/Desktop/Development Projects/Unity Projects/TowerDefense/Temp/bin/Debug/Mono.Cecil.Mdb.dll
